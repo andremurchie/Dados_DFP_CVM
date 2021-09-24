@@ -6,7 +6,7 @@ que são aquelas emitidas pelas empresas todo final de ano, contento dados acumu
 Existem 7 tipos de DFP, você deve escolher quais vai utilizar na sua análise. São elas: BPA (Balanço Patrimonial Ativo), BPP (Blanaço Patrimonial Passivo), DFC (Demonstrativo Fluxo
 de Caixa), DRA (Demonstrativo Resultado Abrangente), DRE (Demonstração do Resultado no Exercício) e DVA (Demonstração do Valor Adicionado).
 
-A função download pedirá os anos inicial e final de sua análise, e quais planilhas você deseja. 
+O código pedirá os anos inicial e final de sua análise, e quais planilhas você deseja. 
   obs: caso você queira análisar as planilhas de BPA e BPP: você escreve BPA e pressiona enter, depois escreve BPP e pressiona enter novamente, como você não deseja mais planilhas
   basta pressionar espaço e depois enter, significando que seu terceiro item é vazio.
 
